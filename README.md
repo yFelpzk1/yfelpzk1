@@ -27,9 +27,3 @@
   </a>
 </p>
 
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=yFelpzk1&show_icons=true&locale=en&layout=compact"
-     alt="yFelpzk1" />
-<img align="center"
-     src="https://github-readme-stats.vercel.app/api?username=yFelpzk1&show_icons=true&theme=dark&locale=en"
-     alt="yFelpzk1" />
